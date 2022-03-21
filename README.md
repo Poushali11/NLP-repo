@@ -3,4 +3,4 @@ This repository contains all my text mining projects  where i have done web scra
 The first file contains codes for sentiment analysis of reviews of oneplus phone in Amazon.
 The second py file contains review analysis of reviews for money heist in IMDB.
 The third py file contains review analysis of Pride & Prejudice book in Goodreads.com.
-It also contains a LDA topic modelling file which i created while at my internship.
+It also contains a traanslation &  LDA topic modelling file which i created as a solution for a real life  project i was working on.
